@@ -935,7 +935,7 @@ section.sitiosturisticos {
 .fondot::before {
     content: "";
     position: absolute;
-    background-image: url(img/sitiostfondo.jpg);
+    background-image: url(../img/sitiostfondo.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -970,7 +970,7 @@ section.sitiosturisticos {
 .gastrof::before {
     content: "";
     position: absolute;
-    background-image: url(img/pimenton.jpg);
+    background-image: url(../img/pimenton.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -1000,7 +1000,7 @@ section.sitiosturisticos {
 .centroff::before {
     content: "";
     position: absolute;
-    background-image: url(img/imgfond.jpg);
+    background-image: url(../img/imgfond.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1051,7 +1051,7 @@ section.sitiosturisticos {
 .fondoflora::before {
     content: "";
     position: absolute;
-    background-image: url(img/fondoflora.jpg);
+    background-image: url(../img/fondoflora.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -1079,7 +1079,7 @@ section.sitiosturisticos {
 .fondotrad::before {
     content: "";
     position: absolute;
-    background-image: url(img/fondotrad.jpg);
+    background-image: url(../img/fondotrad.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
